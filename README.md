@@ -12,7 +12,9 @@ Line 2: [Location #1 Name], [Location #1 Package Weight]
 Line 3: [Location #2 Name], [Location #2 Package Weight] 
 Line 4: [Location #3 Name], [Location #3 Package Weight] Etc. 
 
-Expected Output [Drone #1 Name] Trip #1 [Location #2 Name], [Location #3 Name] Trip #2
+Expected Output
+
+[Drone #1 Name] Trip #1 [Location #2 Name], [Location #3 Name] Trip #2
 
 [Location #1 Name]
 
